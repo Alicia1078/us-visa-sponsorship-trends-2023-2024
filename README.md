@@ -37,7 +37,7 @@ The final interactive dashboard was created using Tableau. It explores key quest
 
 ### Dashboard Preview
 
-![Dashboard](US%20sponsorship%20trends%20Dashboard.png)
+![Dashboard](US_sponsorship_trends_dashboard.png)
 
 > Open the Tableau workbook: `us_visa_sponsorship_trends.twbx`
 
