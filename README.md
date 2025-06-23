@@ -41,6 +41,11 @@ The final interactive dashboard was created using Tableau. It explores key quest
 
 > Open the Tableau workbook: `us_visa_sponsorship_trends.twbx`
 
+Live Dashboard
+
+Explore the full interactive Tableau dashboard here:
+🔗 [us_visa_sponsorship_trends Dashboard on Tableau Public](https://public.tableau.com/views/us_visa_sponsorship_trends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Files in This Repository
 
 - `data_cleaning.ipynb` – Jupyter notebook for preprocessing and merging quarterly data  
